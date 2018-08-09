@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UART_1", "UART_1\UART_1.vcxproj", "{42353106-723E-46AE-A9EA-15775AC03A9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42353106-723E-46AE-A9EA-15775AC03A9E}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{42353106-723E-46AE-A9EA-15775AC03A9E}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{42353106-723E-46AE-A9EA-15775AC03A9E}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{42353106-723E-46AE-A9EA-15775AC03A9E}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33EE7874-B45E-45C4-8485-DAC660A84B6B}
+	EndGlobalSection
+EndGlobal

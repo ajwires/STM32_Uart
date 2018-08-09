@@ -328,3 +328,10 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+UART_1/UART_1/stm32.props
+UART_1/UART_1/stm32.xml
+UART_1/UART_1/UART_1-Debug.vgdbsettings
+UART_1/UART_1/VisualGDB/VisualGDBCache/UART_1-Debug/MemoryUtilizationReport.xml
+UART_1/UART_1/UART_1.vcxproj.filters
+UART_1/UART_1/UART_1.vcxproj
+UART_1/UART_1/UART_1-Release.vgdbsettings
